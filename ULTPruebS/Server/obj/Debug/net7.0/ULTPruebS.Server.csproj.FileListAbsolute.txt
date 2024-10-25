@@ -1,0 +1,303 @@
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Client.staticwebassets.runtime.json
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.staticwebassets.runtime.json
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.exe
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.deps.json
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.runtimeconfig.json
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.pdb
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\CurrieTechnologies.Razor.SweetAlert2.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Client.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Shared.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Client.pdb
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Shared.pdb
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.AssemblyInfo.cs
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.RazorAssemblyInfo.cache
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.RazorAssemblyInfo.cs
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets\msbuild.ULTPruebS.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.ULTPruebS.Server.props
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ULTPruebS.Server.props
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ULTPruebS.Server.props
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\scopedcss\bundle\ULTPruebS.Server.styles.css
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPrueb.7B637E85.Up2Date
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\refint\ULTPruebS.Server.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.pdb
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.genruntimeconfig.cache
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ref\ULTPruebS.Server.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.csproj.AssemblyReference.cache
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.AssemblyInfoInputs.cache
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.AssemblyInfo.cs
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.csproj.CoreCompileInputs.cache
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.RazorAssemblyInfo.cache
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.RazorAssemblyInfo.cs
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\refint\ULTPruebS.Server.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.pdb
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Client.staticwebassets.runtime.json
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.staticwebassets.runtime.json
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.exe
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.deps.json
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.runtimeconfig.json
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.pdb
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\CurrieTechnologies.Razor.SweetAlert2.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Client.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Shared.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Client.pdb
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Shared.pdb
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets\msbuild.ULTPruebS.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.ULTPruebS.Server.props
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ULTPruebS.Server.props
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ULTPruebS.Server.props
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\scopedcss\bundle\ULTPruebS.Server.styles.css
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPrueb.7B637E85.Up2Date
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.genruntimeconfig.cache
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ref\ULTPruebS.Server.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.csproj.AssemblyReference.cache
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.AssemblyInfoInputs.cache
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.AssemblyInfo.cs
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.RazorAssemblyInfo.cache
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.RazorAssemblyInfo.cs
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Client.staticwebassets.runtime.json
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.staticwebassets.runtime.json
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.exe
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.deps.json
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.runtimeconfig.json
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Server.pdb
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\CurrieTechnologies.Razor.SweetAlert2.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Client.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Shared.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Client.pdb
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\ULTPruebS.Shared.pdb
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets\msbuild.ULTPruebS.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.ULTPruebS.Server.props
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ULTPruebS.Server.props
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ULTPruebS.Server.props
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\scopedcss\bundle\ULTPruebS.Server.styles.css
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPrueb.7B637E85.Up2Date
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\refint\ULTPruebS.Server.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.pdb
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ULTPruebS.Server.genruntimeconfig.cache
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\obj\Debug\net7.0\ref\ULTPruebS.Server.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

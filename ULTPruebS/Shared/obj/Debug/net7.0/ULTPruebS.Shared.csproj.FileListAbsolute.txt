@@ -1,0 +1,33 @@
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Shared\bin\Debug\net7.0\ULTPruebS.Shared.deps.json
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Shared\bin\Debug\net7.0\ULTPruebS.Shared.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Shared\bin\Debug\net7.0\ULTPruebS.Shared.pdb
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.AssemblyInfo.cs
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\refint\ULTPruebS.Shared.dll
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.pdb
+C:\Users\Mario\source\repos\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ref\ULTPruebS.Shared.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Shared\bin\Debug\net7.0\ULTPruebS.Shared.deps.json
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Shared\bin\Debug\net7.0\ULTPruebS.Shared.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Shared\bin\Debug\net7.0\ULTPruebS.Shared.pdb
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.AssemblyInfoInputs.cache
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.AssemblyInfo.cs
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.csproj.CoreCompileInputs.cache
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\refint\ULTPruebS.Shared.dll
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.pdb
+C:\Users\elois\Downloads\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ref\ULTPruebS.Shared.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Shared\bin\Debug\net7.0\ULTPruebS.Shared.deps.json
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Shared\bin\Debug\net7.0\ULTPruebS.Shared.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Shared\bin\Debug\net7.0\ULTPruebS.Shared.pdb
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.AssemblyInfoInputs.cache
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.AssemblyInfo.cs
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\refint\ULTPruebS.Shared.dll
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ULTPruebS.Shared.pdb
+C:\Users\Mario\Downloads\Proyectos Sist\ULTPruebS\ULTPruebS\ULTPruebS\Shared\obj\Debug\net7.0\ref\ULTPruebS.Shared.dll

@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\client\\pages\\venta.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|solutionrelative:ultpruebs\\client\\pages\\venta.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F06CA0-7989-4E4D-9A8A-E6F100AD5BB3}|ULTPruebS\\Shared\\ULTPruebS.Shared.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\shared\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F06CA0-7989-4E4D-9A8A-E6F100AD5BB3}|ULTPruebS\\Shared\\ULTPruebS.Shared.csproj|solutionrelative:ultpruebs\\shared\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\server\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|solutionrelative:ultpruebs\\server\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\server\\migrations\\20241020230920_updateuserrolerelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|solutionrelative:ultpruebs\\server\\migrations\\20241020230920_updateuserrolerelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\server\\migrations\\ferreteriadcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|solutionrelative:ultpruebs\\server\\migrations\\ferreteriadcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\server\\ultpruebs.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|solutionrelative:ultpruebs\\server\\ultpruebs.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\server\\models\\ferreteriadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|solutionrelative:ultpruebs\\server\\models\\ferreteriadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\server\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|solutionrelative:ultpruebs\\server\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\server\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|solutionrelative:ultpruebs\\server\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F06CA0-7989-4E4D-9A8A-E6F100AD5BB3}|ULTPruebS\\Shared\\ULTPruebS.Shared.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\shared\\producto1dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F06CA0-7989-4E4D-9A8A-E6F100AD5BB3}|ULTPruebS\\Shared\\ULTPruebS.Shared.csproj|solutionrelative:ultpruebs\\shared\\producto1dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\server\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|solutionrelative:ultpruebs\\server\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|solutionrelative:ultpruebs\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\client\\service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|solutionrelative:ultpruebs\\client\\service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\client\\pages\\producto.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|solutionrelative:ultpruebs\\client\\pages\\producto.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\client\\pages\\productos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|solutionrelative:ultpruebs\\client\\pages\\productos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\client\\service\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|solutionrelative:ultpruebs\\client\\service\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|solutionrelative:ultpruebs\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\server\\controllers\\unidadmedidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|solutionrelative:ultpruebs\\server\\controllers\\unidadmedidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\server\\models\\unidadmedida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|solutionrelative:ultpruebs\\server\\models\\unidadmedida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\server\\models\\producto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|solutionrelative:ultpruebs\\server\\models\\producto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\server\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|solutionrelative:ultpruebs\\server\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\server\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|solutionrelative:ultpruebs\\server\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\client\\pages\\categorias.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A6E0C9A-DA43-4742-B6A3-836F78EBE090}|ULTPruebS\\Client\\ULTPruebS.Client.csproj|solutionrelative:ultpruebs\\client\\pages\\categorias.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|c:\\users\\mario\\downloads\\proyectos sist\\ultpruebs\\ultpruebs\\ultpruebs\\server\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45071E69-DF10-4386-B417-261A027DF773}|ULTPruebS\\Server\\ULTPruebS.Server.csproj|solutionrelative:ultpruebs\\server\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1018,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Venta.razor",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Pages\\Venta.razor",
+              "RelativeDocumentMoniker": "ULTPruebS\\Client\\Pages\\Venta.razor",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Pages\\Venta.razor",
+              "RelativeToolTip": "ULTPruebS\\Client\\Pages\\Venta.razor",
+              "ViewState": "AgIAANMAAAAAAAAAAAAYwOUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T23:35:21.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Server\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "ULTPruebS\\Server\\Controllers\\VentaController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA6wEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T23:21:52.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Shared\\VentaDTO.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Shared\\VentaDTO.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Shared\\VentaDTO.cs",
+              "RelativeToolTip": "ULTPruebS\\Shared\\VentaDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T23:09:16.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241020230920_UpdateUserRoleRelationships.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Migrations\\20241020230920_UpdateUserRoleRelationships.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Server\\Migrations\\20241020230920_UpdateUserRoleRelationships.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Migrations\\20241020230920_UpdateUserRoleRelationships.cs",
+              "RelativeToolTip": "ULTPruebS\\Server\\Migrations\\20241020230920_UpdateUserRoleRelationships.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:09:20.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ULTPruebS.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\ULTPruebS.Server.csproj",
+              "RelativeDocumentMoniker": "ULTPruebS\\Server\\ULTPruebS.Server.csproj",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\ULTPruebS.Server.csproj",
+              "RelativeToolTip": "ULTPruebS\\Server\\ULTPruebS.Server.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T22:58:43.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Server\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Models\\Usuario.cs",
+              "RelativeToolTip": "ULTPruebS\\Server\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:41:35.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Server\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Models\\UserRole.cs",
+              "RelativeToolTip": "ULTPruebS\\Server\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:33:31.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FerreteriaDContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Migrations\\FerreteriaDContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Server\\Migrations\\FerreteriaDContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Migrations\\FerreteriaDContextModelSnapshot.cs",
+              "RelativeToolTip": "ULTPruebS\\Server\\Migrations\\FerreteriaDContextModelSnapshot.cs",
+              "ViewState": "AgIAAMACAAAAQDMzMzPzvxQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:04:23.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Service\\IProductoService.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Client\\Service\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Service\\IProductoService.cs",
+              "RelativeToolTip": "ULTPruebS\\Client\\Service\\IProductoService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:18:14.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Producto1DTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Shared\\Producto1DTO.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Shared\\Producto1DTO.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Shared\\Producto1DTO.cs",
+              "RelativeToolTip": "ULTPruebS\\Shared\\Producto1DTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:38:02.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Server\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "ULTPruebS\\Server\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAIEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:09:42.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FerreteriaDContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Models\\FerreteriaDContext.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Server\\Models\\FerreteriaDContext.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Models\\FerreteriaDContext.cs",
+              "RelativeToolTip": "ULTPruebS\\Server\\Models\\FerreteriaDContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAzwIcBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:57:24.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Service\\ProductoService.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Client\\Service\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Service\\ProductoService.cs",
+              "RelativeToolTip": "ULTPruebS\\Client\\Service\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:21:57.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Producto.razor",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Pages\\Producto.razor",
+              "RelativeDocumentMoniker": "ULTPruebS\\Client\\Pages\\Producto.razor",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Pages\\Producto.razor",
+              "RelativeToolTip": "ULTPruebS\\Client\\Pages\\Producto.razor",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAAAPgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T18:36:19.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Productos.razor",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Pages\\Productos.razor",
+              "RelativeDocumentMoniker": "ULTPruebS\\Client\\Pages\\Productos.razor",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Pages\\Productos.razor",
+              "RelativeToolTip": "ULTPruebS\\Client\\Pages\\Productos.razor",
+              "ViewState": "AgIAACQBAAAAAAAAAAAAADcBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T18:51:09.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ULTPruebS\\Client\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "ULTPruebS\\Client\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T19:06:35.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Program.cs",
+              "RelativeToolTip": "ULTPruebS\\Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:38:44.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnidadMedidaController.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Controllers\\UnidadMedidaController.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Server\\Controllers\\UnidadMedidaController.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Controllers\\UnidadMedidaController.cs",
+              "RelativeToolTip": "ULTPruebS\\Server\\Controllers\\UnidadMedidaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:09:36.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnidadMedida.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Models\\UnidadMedida.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Server\\Models\\UnidadMedida.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Models\\UnidadMedida.cs",
+              "RelativeToolTip": "ULTPruebS\\Server\\Models\\UnidadMedida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:53:46.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Server\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Models\\Categoria.cs",
+              "RelativeToolTip": "ULTPruebS\\Server\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:03:26.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Models\\Inventario.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Server\\Models\\Inventario.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Models\\Inventario.cs",
+              "RelativeToolTip": "ULTPruebS\\Server\\Models\\Inventario.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:56:22.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Producto1.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Models\\Producto1.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Server\\Models\\Producto1.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Models\\Producto1.cs",
+              "RelativeToolTip": "ULTPruebS\\Server\\Models\\Producto1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:41:05.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Categorias.razor",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Pages\\Categorias.razor",
+              "RelativeDocumentMoniker": "ULTPruebS\\Client\\Pages\\Categorias.razor",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Client\\Pages\\Categorias.razor",
+              "RelativeToolTip": "ULTPruebS\\Client\\Pages\\Categorias.razor",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwIEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:31:45.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "ULTPruebS\\Server\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\Proyectos Sist\\ULTPruebS\\ULTPruebS\\ULTPruebS\\Server\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "ULTPruebS\\Server\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:30:03.074Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 516,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 516,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+﻿@page "/productos"
+
+@using ULTPruebS.Shared;
+@using CurrieTechnologies.Razor.SweetAlert2;
+@using ULTPruebS.Client.Service;
+
+@inject SweetAlertService swal;
+@inject IProductoService productoService;
+@inject IUnidadMedidaService unidadService;
+@inject ICategoriaService categoriaService;
+
+<style>
+    .card {
+        border: 2px solid #68217A; /* Color morado similar al predeterminado */
+        border-radius: 8px; /* Bordes redondeados */
+        margin-top: 20px;
+    }
+
+    .card-header {
+        background-color: #68217A; /* Fondo morado para el encabezado */
+        color: white; /* Texto blanco en el encabezado */
+        padding: 10px;
+        border-bottom: 2px solid #4b154a; /* Bordes morados más oscuros */
+    }
+
+    .card-body {
+        padding: 20px;
+    }
+
+    .form-label {
+        font-weight: bold; /* Opcional: resaltar las etiquetas */
+    }
+
+    .form-control, .form-select {
+        border-color: #68217A; /* Bordes morados para inputs y selects */
+    }
+
+    .form-control:focus, .form-select:focus {
+        box-shadow: 0 0 0 0.2rem rgba(104, 33, 122, 0.25); /* Sombra morada para el foco */
+        border-color: #68217A;
+    }
+
+    .btn-primary {
+        background-color: #68217A; /* Color de fondo morado para el botón */
+        border-color: #68217A; /* Borde morado para el botón */
+    }
+
+    .btn-primary:hover {
+        background-color: #4b154a; /* Color morado más oscuro al pasar el cursor */
+        border-color: #4b154a;
+    }
+
+    .btn-warning {
+        background-color: #f0ad4e; /* Color de fondo para el botón de advertencia */
+        border-color: #f0ad4e; /* Borde para el botón de advertencia */
+    }
+
+    .btn-warning:hover {
+        background-color: #ec971f; /* Color más oscuro al pasar el cursor */
+        border-color: #ec971f;
+    }
+
+    .alert {
+        margin-top: 20px;
+        animation: fade-in 1s ease-in-out; /* Añade animación a la alerta */
+    }
+
+    /* Animación de fade-in */
+    keyframes fade-in {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+
+    .details-row {
+        background-color: #f9f9f9; /* Color de fondo para la fila de detalles */
+    }
+
+    /* Estilo para mensaje flotante */
+    .alerta-flotante {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        z-index: 1000;
+        animation: fade-in 1s ease-in-out;
+    }
+    /* Clase para productos por debajo del stock mínimo */
+    .producto-bajo-stock {
+        background-color: #f8d7da !important; /* Rojo claro */
+        color: #721c24; /* Rojo oscuro para el texto */
+    }
+
+    .btn-icon {
+        background-color: transparent; /* Fondo transparente */
+        color: #007bff; /* Color del icono */
+        border: none; /* Sin borde */
+        cursor: pointer; /* Cambia el cursor al pasar por encima */
+        font-size: 24px; /* Tamaño del icono */
+        transition: color 0.3s ease; /* Efecto de transición */
+    }
+
+        .btn-icon:hover {
+            color: #0056b3; /* Color al pasar el mouse */
+        }
+
+        .btn-icon:active {
+            color: #004085; /* Color al hacer clic */
+        }
+
+
+</style>
+
+<h1>Productos</h1>
+
+<!-- Zona del mensaje flotante -->
+@if (!string.IsNullOrEmpty(stockMinimoMensaje))
+{
+    <div class="alert alert-warning alerta-flotante">
+        @stockMinimoMensaje
+    </div>
+}
+
+<div class="card mt-4">
+    <div class="card-header">
+        Lista de Productos
+    </div>
+    <div class="card-body">
+        <a class="btn btn-success btn-sm mb-3" href="producto">Nuevo Producto</a>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Nombre Producto</th>
+@*                     <th>Cantidad</th>
+ *@                    <th>Precio Compra</th>
+                    <th>Precio Venta</th>
+                    <th>Ganancia</th>
+                    <th>Stock</th>
+                    <th>StockMin</th>
+                    <th>Estado</th>
+                    <th>Unidad</th>
+                    <th>Categoría</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (listaProductos == null)
+                {
+                    <tr>
+                        <td colspan="10" align="center">
+                            <img style="width:50px" src="https://media.tenor.com/On7kvXhzml4AAAAj/loading-gif.gif" />
+                        </td>
+                    </tr>
+                }
+                else
+                {
+                    foreach (var item in listaProductos)
+                    {
+                        var rowClass = item.Stock <= item.StockMinimo ? "producto-bajo-stock" : "";
+
+                        <tr class="@rowClass">
+                            <td>
+                                <button @onclick="() => ToggleRow(item.IdProducto1)" class="btn btn-link">
+                                    @item.Nombre
+                                </button>
+                            </td>
+                            <td>C$ @($"{item.PrecioCompra}")</td>
+                            <td>C$ @($"{item.PrecioVenta}")</td>
+                            <td>C$ @($"{item.Ganancia}")</td>
+                            <td>@item.Stock</td>
+                            <td>@item.StockMinimo</td>
+                            <td>@item.Estado</td>
+                            <td>@GetUnidadNombre(item.IdUnidad)</td>
+                            <td>@GetCategoriaNombre(item.IdCategoria)</td>
+                            <td>
+                                <!-- Botones de incrementar y decrementar stock -->
+                                <button class="btn btn-sm btn-secondary me-2" @onclick="() => DecrementarStock(item.IdProducto1)">
+                                    -
+                                </button>
+                                <button class="btn btn-sm btn-secondary me-2" @onclick="() => IncrementarStock(item.IdProducto1)">
+                                    +
+                                </button>
+                                <!-- Botón de editar -->
+                                <a class="btn btn-primary btn-sm" href="producto/@item.IdProducto1">
+                                    <i class="oi oi-pencil"></i>
+                                </a>
+                                <!-- Botón de eliminar -->
+                                <button type="button" class="btn btn-danger btn-sm ms-2" @onclick="(() => Eliminar(item.IdProducto1))">
+                                    <i class="oi oi-trash"></i>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr class="details-row" style="display: @(expandedRows.Contains(item.IdProducto1) ? "table-row" : "none")">
+                            <td colspan="10">
+                                <div>
+                                    <strong>Características:</strong> @item.Caracteristicas<br />
+                                    <strong>Descripción:</strong> @item.Detalle<br />
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+
+        </table>
+    </div>
+</div>
+
+@code {
+    List<Producto1DTO>? listaProductos = null;
+    private Dictionary<int, string> unidades = new Dictionary<int, string>();
+    private Dictionary<int, string> categorias = new Dictionary<int, string>();
+    private HashSet<int> expandedRows = new HashSet<int>();
+
+    private string stockMinimoMensaje = string.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            listaProductos = await productoService.Lista();
+
+            var listaUnidades = await unidadService.Lista();
+            var listaCategorias = await categoriaService.Lista();
+
+            unidades = listaUnidades.ToDictionary(u => u.IdUnidad, u => u.NombreUnidad);
+            categorias = listaCategorias.ToDictionary(c => c.IdCategoria, c => c.NombreCategoria);
+
+            // Lógica para verificar stock mínimo
+            VerificarStockMinimo();
+        }
+        catch (Exception ex)
+        {
+            // Manejar el error (mostrar mensaje, log, etc.)
+        }
+    }
+
+    private string GetUnidadNombre(int idUnidad)
+    {
+        return unidades.TryGetValue(idUnidad, out var nombre) ? nombre : "Desconocido";
+    }
+
+    private string GetCategoriaNombre(int idCategoria)
+    {
+        return categorias.TryGetValue(idCategoria, out var nombre) ? nombre : "Desconocido";
+    }
+
+    private void ToggleRow(int productId)
+    {
+        if (expandedRows.Contains(productId))
+        {
+            expandedRows.Remove(productId);
+        }
+        else
+        {
+            expandedRows.Add(productId);
+        }
+    }
+
+    private async Task Eliminar(int id)
+    {
+        var resultado = await swal.FireAsync(new SweetAlertOptions
+        {
+            Title = "Eliminar Producto",
+            Text = "¿Desea eliminar este producto?",
+            Icon = SweetAlertIcon.Question,
+            ShowCancelButton = true
+        });
+
+        if (resultado.IsConfirmed)
+        {
+            var eliminado = await productoService.Eliminar(id);
+
+            if (eliminado)
+                listaProductos = listaProductos!.FindAll(e => e.IdProducto1 != id);
+        }
+    }
+
+    private void VerificarStockMinimo()
+    {
+        var productosConStockMinimo = listaProductos!.Where(p => p.Stock <= p.StockMinimo).ToList();
+
+        if (productosConStockMinimo.Any())
+        {
+            stockMinimoMensaje = "Algunos productos están por debajo del stock mínimo.";
+        }
+        else
+        {
+            stockMinimoMensaje = string.Empty;
+        }
+    }
+
+    private async Task IncrementarStock(int idProducto)
+    {
+        var producto = listaProductos!.FirstOrDefault(p => p.IdProducto1 == idProducto);
+        if (producto != null)
+        {
+            producto.Stock++;
+            await productoService.Editar(producto); // Llamada para guardar los cambios en la base de datos
+            VerificarStockMinimo(); // Verifica el stock mínimo después del cambio
+        }
+    }
+
+    private async Task DecrementarStock(int idProducto)
+    {
+        var producto = listaProductos!.FirstOrDefault(p => p.IdProducto1 == idProducto);
+        if (producto != null && producto.Stock > 0)
+        {
+            producto.Stock--;
+            await productoService.Editar(producto); // Llamada para guardar los cambios en la base de datos
+            VerificarStockMinimo(); // Verifica el stock mínimo después del cambio
+        }
+    }
+
+}

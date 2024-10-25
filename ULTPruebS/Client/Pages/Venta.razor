@@ -1,0 +1,277 @@
+﻿@page "/venta"
+
+@using ULTPruebS.Shared;
+@using ULTPruebS.Client.Servicio;
+
+@inject IProducto1Service productoServicio;
+@inject IVentaService ventaServicio;
+
+<style>
+    .content {
+        margin-top: 20px;
+        padding: 10px;
+        background-color: #f9f9f9;
+        border: 2px solid #68217A;
+        border-radius: 8px;
+    }
+
+    .form-control {
+        border-color: #68217A;
+    }
+
+    .form-select {
+        border-color: #68217A;
+    }
+
+        .form-control:focus, .form-select:focus {
+            box-shadow: 0 0 5px rgba(104, 33, 122, 0.5);
+        }
+
+    .btn-primary {
+        background-color: #68217A;
+        border-color: #68217A;
+    }
+
+    .btn-success {
+        background-color: #28a745;
+    }
+
+    .btn-danger {
+        background-color: #dc3545;
+    }
+
+    .table {
+        margin-top: 20px;
+    }
+
+        .table thead {
+            background-color: #68217A;
+            color: white;
+        }
+
+        .table tbody tr:hover {
+            background-color: #e2d5f7;
+        }
+
+    .row {
+        margin-bottom: 15px;
+    }
+</style>
+
+<div class="content">
+
+    <div class="row">
+        <div class="col-6">
+            <label for="cliente" class="form-label">Nombre Cliente</label>
+            <InputText id="cliente" class="form-control" placeholder="Nombre Cliente" @bind-Value="venta.Cliente"></InputText>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-4">
+            <label for="fechaVenta" class="form-label">Fecha de Venta</label>
+            <InputDate id="fechaVenta" class="form-control" @bind-Value="venta.FechaVenta"></InputDate>
+        </div>
+
+        <div class="col-4">
+            <label for="descuentoTotal" class="form-label">Descuento Total</label>
+            <InputNumber id="descuentoTotal" class="form-control" @bind-Value="venta.DescuentoTotal"></InputNumber>
+        </div>
+    </div>
+
+    <hr />
+
+    <div class="row">
+        <div class="col-4">
+            <label for="producto" class="form-label">Seleccionar Producto</label>
+            <select id="producto" class="form-select" value="@idProducto1" @onchange="ProductoSeleccionado">
+                <option value="0">-- Seleccionar --</option>
+                @foreach (var item in listProducto)
+                {
+                    <option value="@item.IdProducto1">@item.Nombre</option>
+                }
+            </select>
+        </div>
+
+        <div class="col-2">
+            <label for="precio" class="form-label">Precio</label>
+            <InputNumber id="precio" class="form-control" @bind-Value="precio"></InputNumber>
+        </div>
+
+        <div class="col-2">
+            <label for="cantidad" class="form-label">Cantidad</label>
+            <InputNumber id="cantidad" class="form-control" @bind-Value="cantidad"></InputNumber>
+        </div>
+
+        <div class="col-2">
+            <label for="iva" class="form-label">IVA (%)</label>
+            <InputNumber id="iva" class="form-control" @bind-Value="iva"></InputNumber>
+        </div>
+
+        <div class="col-2">
+            <button class="btn btn-primary" @onclick="AgregarProducto">Agregar</button>
+        </div>
+
+        <div class="col-2">
+            <button class="btn btn-success" @onclick="TerminarVenta">Terminar</button>
+        </div>
+    </div>
+
+    <hr />
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Producto</th>
+                <th>Precio</th>
+                <th>Cantidad</th>
+                <th>Sub Total</th>
+                <th>Descuento</th>
+                <th>Total</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in venta.DetalleVenta)
+            {
+                <tr>
+                    <td>@item.Producto1.Nombre</td>
+                    <td>@item.Producto1.Precio</td>
+                    <td>@item.Cantidad</td>
+                    <td>@item.SubTotal</td>
+                    <td>@item.Descuento</td>
+                    <td>@item.Total</td>
+                    <td>
+                        <button class="btn btn-sm btn-danger" @onclick="@(() => EliminarProducto(item.Producto1.IdProducto1))">
+                            <span class="oi oi-trash"></span>
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="row">
+        <div class="col-4">
+            <label for="montoPagado" class="form-label">Monto Pagado</label>
+            <InputNumber id="montoPagado" class="form-control" @bind-Value="venta.MontoPagado"></InputNumber>
+        </div>
+
+        <div class="col-4">
+            <label for="cambio" class="form-label">Cambio</label>
+            <InputNumber id="cambio" class="form-control" @bind-Value="venta.Cambio"></InputNumber>
+        </div>
+    </div>
+
+</div>
+
+@code {
+
+    private const decimal ivaPorcentaje = 15; // Constante para el IVA
+
+
+    List<Producto1DTO> listProducto = new List<Producto1DTO>();
+    VentaDTO venta = new VentaDTO() { DetalleVenta = new List<DetalleVentaDTO>(), FechaVenta = DateTime.Now };
+    int idProducto1 = 0;
+    int cantidad = 0;
+    decimal? precio = 0;
+    decimal? iva = 0;
+
+    protected override async Task OnInitializedAsync()
+    {
+        listProducto = await productoServicio.Lista();
+    }
+
+    public void ProductoSeleccionado(ChangeEventArgs e)
+    {
+        int _idProducto = Convert.ToInt32(e.Value.ToString());
+
+        if (_idProducto != 0)
+        {
+            var producto = listProducto.Find(p => p.IdProducto1 == _idProducto);
+            precio = producto?.Precio;
+        }
+        else
+        {
+            precio = 0;
+        }
+
+        idProducto1 = _idProducto;
+        cantidad = 0;
+    }
+
+
+
+
+
+    private void AgregarProducto()
+    {
+        if (idProducto1 == 0 || cantidad <= 0)
+            return;
+
+        if (venta.DetalleVenta.FirstOrDefault(p => p.Producto1.IdProducto1 == idProducto1) != null)
+            return;
+
+        var subtotal = precio * cantidad;
+        var descuento = subtotal * 0.1m; // Ejemplo de descuento (10%)
+        var total = subtotal - descuento + (subtotal * (iva / 100));
+
+        venta.DetalleVenta.Add(new DetalleVentaDTO
+            {
+                Producto1 = new Producto1DTO
+                {
+                    IdProducto1 = idProducto1,
+                    Nombre = listProducto.Find(p => p.IdProducto1 == idProducto1)!.Nombre,
+                    Precio = precio
+                },
+                Cantidad = cantidad,
+                SubTotal = subtotal,
+                Descuento = descuento,
+                Total = total,
+                Iva = subtotal * (iva / 100),
+                TasaIva = iva.Value
+            });
+
+        idProducto1 = 0;
+        precio = 0;
+        cantidad = 0;
+        iva = 0;
+    }
+
+    public void EliminarProducto(int id)
+    {
+        var producto = venta.DetalleVenta.First(p => p.Producto1.IdProducto1 == id);
+        venta.DetalleVenta.Remove(producto);
+    }
+
+    public async Task TerminarVenta()
+    {
+        //venta.Total = venta.DetalleVenta.Sum(p => p.Total ?? 0m); // Convierte 0 a 'decimal' usando '0m'
+        //venta.Cambio = (venta.MontoPagado ?? 0m) - (venta.Total ?? 0m); // Convierte 0 a 'decimal' usando '0m'
+
+
+        // Sumar el total de la venta redondeando a 2 decimales
+        venta.Total = Math.Round(venta.DetalleVenta.Sum(p => p.Total ?? 0), 2);
+
+        // Asegurarse de que MontoPagado no sea nulo y redondearlo a 2 decimales
+        // También verificamos que MontoPagado tenga un valor antes de usarlo
+        decimal montoPagado = venta.MontoPagado ?? 0; // Si es nulo, asigna 0
+        montoPagado = Math.Round(montoPagado, 2); // Redondear a 2 decimales
+
+        // Asegurarse de que Total no sea nulo y redondearlo a 2 decimales
+        decimal total = venta.Total ?? 0; // Si es nulo, asigna 0
+
+        // Calcular el cambio redondeando a 2 decimales
+        venta.Cambio = Math.Round(montoPagado - total, 2);
+
+
+
+        var result = await ventaServicio.Guardar(venta);
+
+        if (result)
+        {
+            venta.Cliente = "";
+            venta.DetalleVenta = new List<DetalleVentaDTO>();
+        }
+    }
+}
